@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeeCRM.API\\EmployeeCRM.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmployeeCRM.MVC\\EmployeeCRM.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeeCRM.API\\EmployeeCRM.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmployeeCRM.MVC\\EmployeeCRM.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
